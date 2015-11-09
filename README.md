@@ -1,1 +1,3 @@
-# ni_super_alloy_design_workflow
+#Project Pages
+
+Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](http://matin-hub.github.io/ppguide/).
