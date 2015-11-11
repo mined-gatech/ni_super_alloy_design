@@ -1,9 +1,9 @@
 # Site settings
 
-title: Nickel Based Super Alloy Design Model
+title: Nickel Based Superalloy Design Model
 header-img: img/home-bg.jpg
 email: david.brough.0416@gmail.com
-description: "This "
+description: "An approach with a modular workflow"
 baseurl: "/ni_super_alloy_design"
 url: "http://mined-gatech.github.io"
 github_username:  mined-gatech
